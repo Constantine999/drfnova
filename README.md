@@ -7,9 +7,9 @@
 
 
 2. Заполняем поля:
-   name = название файла;
-   data = текстовое содержимое файла;
-   жмём на кнопку POST.
+   - name = название файла;
+   - data = текстовое содержимое файла;
+   - жмём на кнопку POST.
 
    Требования для успешной отправки:
     - поля 'name' и 'data' - обязательны к заполнению;
@@ -23,7 +23,7 @@
 
 
 4. Переходим в облако Google Drive:
-   https://drive.google.com/drive/my-drive
+   - https://drive.google.com/drive/my-drive
    
    Данные для входа в аккаунт Google Drive:
    - login: testdocumensttest@gmail.com
