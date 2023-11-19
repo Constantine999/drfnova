@@ -1,3 +1,5 @@
 .idea
 .env
 credentials.json
+settings.yaml
+client_secrets.json
