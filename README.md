@@ -24,6 +24,13 @@
 
 
 4. _Переходим в облако Google Drive_:
-   - https://drive.google.com/drive/my-drive
-   - **login**: ```testdocumensttest@gmail.com```
-   - **password**: ```Test12345!@#$%```
+   https://drive.google.com/drive/my-drive
+
+   **login:**</br>
+     ```
+     testdocumensttest@gmail.com    
+     ```
+     **password:**</br>
+     ```
+     Test12345!@#$%
+     ```
