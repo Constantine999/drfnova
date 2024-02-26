@@ -4,7 +4,7 @@ from drfnova.settings import drive
 
 
 def create_file(file_name: str, file_content: str) -> tuple[str, str]:
-    '''Создает в Google Drive файл "file_name".doc c текстом "file_content" '''
+    """Создает в Google Drive файл 'file_name'.doc c текстом 'file_content' """
 
     try:
         my_file = drive.CreateFile({'title': f'{file_name}.doc'})

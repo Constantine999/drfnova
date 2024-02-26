@@ -6,7 +6,7 @@ from .serializers import DocumentSerializer
 
 
 class DocumentAPIView(CreateAPIView):
-    '''Контроллер POST запроса'''
+    """Контроллер POST запроса"""
     serializer_class = DocumentSerializer
 
     def create(self, request, *args, **kwargs) -> Response:
