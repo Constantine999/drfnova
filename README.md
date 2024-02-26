@@ -23,8 +23,9 @@
    - если произошла ошибка, сервер вернет статус-код 400, значит файл не был создан.
 
 
-4. _Переходим в облако Google Drive_:
-   https://drive.google.com/drive/my-drive
+4. _Облако Google Drive_:</br></br>
+   **Переходим по ссылке:</br>**
+   https://drive.google.com/drive/my-drive</br></br>
 
    **login:**</br>
      ```
